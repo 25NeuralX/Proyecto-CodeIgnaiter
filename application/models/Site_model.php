@@ -6,7 +6,7 @@ public function login(){
 
 public function insertarProfesor(){
   $array = array(
-    "nombre"=>"vane",
+    "nombre"=>"Carlos",
     "apellido"=>"gomez",
     "curso"=>"11"
   );
